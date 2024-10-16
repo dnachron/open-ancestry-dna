@@ -1,6 +1,6 @@
-# DNAChron Open-Source Resources for Human Y-Chromosome Analysis
+# DNAChron Open-Source Resources for Human Ancestry Analysis
 
-Welcome to the DNAChron open-source repository dedicated to human Y-chromosome analysis. This project provides a suite of resources designed to facilitate the processing and analysis of Y-chromosome data.
+Welcome to the DNAChron open-source repository dedicated to human ancestry analysis.
 
 ## Repository Contents
 
